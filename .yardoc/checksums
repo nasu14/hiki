@@ -52,7 +52,7 @@ lib/hiki/style/rd+/parser.rb b67b9d0e9d252f11d742b47bc6fe50c42d638588
 lib/hiki/plugin/00default.rb 583a51019bd458d7e863b067ba612d64c8c150c7
 lib/hiki/style/math/latex.rb 8a5a91bbd7db08dbb5abede36c1c34c7d195bbf0
 lib/hiki/plugin/ja/02help.rb 9f9b5157dc438d585e234d1c586ecdd559962bd4
-lib/hiki/storage/flatfile.rb 836cd6cf04bd943d38c8248cd6c49a1a9db6ac2a
+lib/hiki/storage/flatfile.rb 44694c6705b99ce658a2ec451e6cdeeacdcec70c
 lib/hiki/xmlrpc/rackserver.rb 04228ab236399a88e9a583eabca5f69aa2e3dca1
 lib/hiki/style/math/parser.rb 0b7383c7318bc8a6185b31c1f349bad42d2db3bb
 lib/hiki/style/rd+/rd2html.rb 756bfe424694ca5ef6baea5742f6b500a86ffb88
