@@ -25,4 +25,9 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "yard"
   spec.add_development_dependency "hiki2md"
   spec.add_development_dependency "mathjax-yard"
+  spec.runtime_dependency "docdiff"
+  spec.runtime_dependency "sequel"
+  spec.runtime_dependency "hikidoc"
+  spec.runtime_dependency "rd"
+  spec.runtime_dependency "rdtool"
 end
