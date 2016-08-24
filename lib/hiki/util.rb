@@ -5,6 +5,7 @@ require "nkf"
 require "cgi/util"
 require "erb"
 
+#===HEAD
 #ライブラリ読み込み
 require "cgi"
 
@@ -31,7 +32,13 @@ begin
 rescue LoadError
   error_cgi
 end
-
+=begin
+require "docdiff/difference"
+require "docdiff/document"
+require "docdiff/view"
+require "docdiff/diff/unidiff"
+>>>>>>> remotes/origin/math_highlight_included
+=end
 class String
   # all instance methods added in String class will be obsoleted in the
   # future release.
