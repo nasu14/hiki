@@ -9,7 +9,7 @@
 !/data/text/TextFormattingRules
 /hikiconf.rb
 /test/tmp/
-/js
+!/js
 /doc
 /Folders
 /GeneralLectures
